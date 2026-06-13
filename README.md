@@ -70,5 +70,3 @@ A dedicated `Dashboard` sheet was established with a minimalist, clean aesthetic
 * **Features:** Pivot Tables, Pivot Charts, Slicers (Global Report Connections), Find & Replace, Data Type Formatting, and Gridline Toggling.
 
 ---
-
-*Note: This repository/project folder contains the original dataset, the processing scratchpad sheet, and the finalized interactive dashboard interface.*
